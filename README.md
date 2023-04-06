@@ -8,8 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </div>
   
   ##
