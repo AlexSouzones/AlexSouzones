@@ -1,4 +1,4 @@
-## Oiii eu sou Alex Souza, programador Python e JS!
+## Olá, me chamo Alex, sou programador Python, Javascript e C++ em projetos Arduíno!
 
 
 <div style="display: inline_block"><br>
