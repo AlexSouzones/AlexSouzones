@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="350" style="border-radius:50px;" src="https://cutewallpaper.org/21/pixel-art-gif-background/Pixel-art-gif-city-4-%E2%94%AC%E2%95%97-GIF-Images-Download.gif">
+  <img align="right" alt="Rafa-pic" height="330" style="border-radius:50px;" src="https://cutewallpaper.org/21/pixel-art-gif-background/Pixel-art-gif-city-4-%E2%94%AC%E2%95%97-GIF-Images-Download.gif">
 </div>
   
   ##
