@@ -1,4 +1,4 @@
-## Olá, me chamo Alex, sou programador Python, Javascript e C++ em projetos Arduíno!
+## Olá, me chamo Alexandre, sou programador Python, Javascript e C++ em projetos Arduíno!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
