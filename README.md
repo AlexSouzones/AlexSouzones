@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Django-Icon" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcopyassignment.com%2Fuser-authentication-system-in-django-python%2F&psig=AOvVaw3koZuZyjZ0xvNoi0Jw6qmQ&ust=1723243455121000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDXsaS85ocDFQAAAAAdAAAAABAJ">
+  <img align="center" alt="Django-Icon" height="30" width="40" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
