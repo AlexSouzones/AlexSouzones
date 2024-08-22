@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
-<hr>
+
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=76E5F7FF&width=435&lines=PT+BR;" alt="Typing SVG" /></a>
 _Me chamo Alexandre, mas podem me chamar de Alex! Sou um apaixonado por tecnologia e adoro desenvolver aplicações, criar jogos e automatizar processos. Ficarei feliz se você visitar meu LinkedIn!_
 
