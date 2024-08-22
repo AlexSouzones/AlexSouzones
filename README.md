@@ -17,4 +17,11 @@ _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who
 
 #
 #
+#
+#
+#
+#
+#
+#
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&)
