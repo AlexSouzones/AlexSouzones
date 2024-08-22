@@ -3,17 +3,20 @@
 _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
 <hr>
-## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=git"> 
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=arduino">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=discord">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=gamemakerstudio">
   <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws"><br>
 </div>
-## Languages & Frameworks
 <hr>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Django-Icon" height="30" width="40" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=flask">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=qt">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
