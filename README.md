@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=wellcome+/+bem-vindos!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
 
 ### PT-BR
 _Me chamo Alexandre, mas podem me chamar de Alex! Sou um apaixonado por tecnologia e adoro desenvolver aplicações, criar jogos e automatizar processos. Ficarei feliz se você visitar meu LinkedIn!_
@@ -23,4 +23,4 @@ _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who
 #
 #
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&)
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Volte!+sempre!+XD;" />
