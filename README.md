@@ -23,4 +23,4 @@ _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who
 #
 #
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&)
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World?+!+!+!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=300&height=70&color=green&duration=5000&lines=Hello+World?+!+!+!;" />
