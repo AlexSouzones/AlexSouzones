@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
 
-### PT-BR
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF72C&width=435&lines=PT_BR;" alt="Typing SVG" /></a>
 _Me chamo Alexandre, mas podem me chamar de Alex! Sou um apaixonado por tecnologia e adoro desenvolver aplicações, criar jogos e automatizar processos. Ficarei feliz se você visitar meu LinkedIn!_
 
 ### EN
@@ -23,4 +23,4 @@ _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who
 #
 #
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF72C&width=435&lines=Hello+World?+!+!+!;" alt="Typing SVG" /></a>
+
