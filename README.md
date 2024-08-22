@@ -3,26 +3,26 @@
 _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=git"> 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=arduino">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=discord">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=vscode">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=pycharm">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=gamemakerstudio">
-  <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws"><br>
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=git"> 
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=arduino">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=discord">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=sqlite">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=pycharm">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=gamemakerstudio">
+  <img align="center" alt="" height="40" width="40" src="https://skillicons.dev/icons?i=aws"><br>
 </div>
 <hr>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=flask">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=selenium">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=qt">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=flask">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=selenium">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=qt">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
   <hr>
   <img align="right" alt="" width="700" height="270" style="border-radius:20px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><br>
 </div>
