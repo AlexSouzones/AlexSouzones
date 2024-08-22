@@ -16,7 +16,7 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
 <hr>
 ## Skills
 <div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
+  <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev"><br>
 </div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&card_width=700)
