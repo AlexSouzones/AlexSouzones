@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
 
 _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
@@ -8,6 +8,7 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=git"> 
   <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws"><br>
 </div>
+
 <hr>
 ## Languages & Frameworks
 <div style="display: inline_block"><br>
