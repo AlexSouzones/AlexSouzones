@@ -1,9 +1,9 @@
 # Bem-vindos! / Wellcome!
 
-PT-BR 🇧🇷
+### PT-BR
 _Me chamo Alexandre, mas podem me chamar de Alex! Sou um apaixonado por tecnologia e adoro desenvolver aplicações, criar jogos e automatizar processos. Ficarei feliz se você visitar meu LinkedIn!_
 
-EN 🇺🇸
+### EN
 _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
 <div style="display: inline_block"><br>
