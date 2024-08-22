@@ -1,16 +1,16 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
 
 _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
 <hr>
-# Skills
+##Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=git"> 
   <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws"><br>
 </div>
 
 <hr>
-# Languages & Frameworks
+##Languages & Frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Django-Icon" height="30" width="40" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default">
