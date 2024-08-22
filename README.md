@@ -8,6 +8,9 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=arduino">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=discord">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=pycharm">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=gamemakerstudio">
   <img align="center" alt="" height="30" width="40" src="https://skillicons.dev/icons?i=aws"><br>
 </div>
@@ -16,6 +19,7 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=flask">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=selenium">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=qt">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
