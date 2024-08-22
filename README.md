@@ -1,11 +1,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome!+/+Bem-Vindos!;" />
-
+<hr>
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=76E5F7FF&width=435&lines=PT+BR;" alt="Typing SVG" /></a>
 _Me chamo Alexandre, mas podem me chamar de Alex! Sou um apaixonado por tecnologia e adoro desenvolver aplicações, criar jogos e automatizar processos. Ficarei feliz se você visitar meu LinkedIn!_
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=76E5F7FF&width=435&lines=EN;" alt="Typing SVG" /></a>
 _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
-
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Django-Icon" height="30" width="40" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default">
