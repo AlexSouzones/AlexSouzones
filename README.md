@@ -16,4 +16,4 @@ _My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who
 </div>
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000&align=right)
