@@ -2,7 +2,6 @@
 
 _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast who loves developing applications, creating games, and automating processes. I'd be thrilled if you checked out my LinkedIn!_
 
-<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=git"> 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=arduino">
