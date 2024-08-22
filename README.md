@@ -12,6 +12,6 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="right" alt="" height="270" style="border-radius:20px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><br>
 </div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&card_width=500)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSouzones&show_icons=true&bg_color=00000000&card_width=5000)
 
 
