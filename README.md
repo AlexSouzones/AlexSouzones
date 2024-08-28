@@ -21,6 +21,7 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=flask">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=selenium">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=qt">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://avatars.githubusercontent.com/u/8123570?s=200&v=4">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
