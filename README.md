@@ -6,7 +6,6 @@ _Hi! My name is Alexandre, but you can call me Alex! I'm a technology enthusiast
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=git"> 
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bots">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=arduino">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=discord">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=sqlite">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">
